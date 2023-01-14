@@ -1,6 +1,9 @@
 # 💫 About Me:
-<img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 18px width = 18px> I am Ryan Leyland from Montreal, Canada
-🔭 I’m currently a final year Software Engineering student<br>👯 I’m looking to collaborate on interesting open-source projects<br>🌱 I’m currently learning React-native and Machine Learning<br>💬 Ask me about Web, Mobile and AI
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 18px width = 18px> I am Ryan Leyland from Montreal, Canada
+- 🔭 I’m currently a final year Software Engineering student
+- 👯 I’m looking to collaborate on interesting open-source projects
+- 🌱 I’m currently learning React-native and Machine Learning
+- 💬 Ask me about Web, Mobile and AI
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
