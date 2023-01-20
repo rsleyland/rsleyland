@@ -22,7 +22,7 @@
 
 🔧 &nbsp;  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
 
-🖥 &nbsp;&nbsp; ![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects) ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+🖥 &nbsp; ![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=flat&logo=adobe-after-effects) ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rsleyland&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
